@@ -2,7 +2,7 @@
 This repository contains an automation script developed using Selenium WebDriver and Java to automate the user registration process for the IvoryPay App.
 
 
-# Introduction
+% Introduction
 The Ivorypay App User Registration Automation script automates the process of registering a new user on the Ivorypay App. The script uses Selenium WebDriver and Java programming language to interact with the application's web elements and simulate user actions.
 
 # Prerequisites

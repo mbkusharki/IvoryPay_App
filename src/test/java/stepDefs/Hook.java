@@ -1,5 +1,6 @@
 package stepDefs;
 
+<<<<<<< HEAD
 import io.cucumber.java.Before;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import ivorypay.BaseUtil;
@@ -19,4 +20,9 @@ public class Hook extends BaseUtil
         WebDriverManager.chromedriver().setup();
         base.driver = new ChromeDriver();
     }
+=======
+public class Hook
+{
+
+>>>>>>> origin/master
 }
